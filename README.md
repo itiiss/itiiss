@@ -18,10 +18,10 @@
     class="d-flex align-center"
 >
 <a >
-  <img align="center" width="389px" src="https://github-readme-stats.vercel.app/api?username=itiiss&count_private=true&show_icons=true" />
+  <img align="center" width="469px" src="https://github-readme-stats.vercel.app/api?username=itiiss&count_private=true&show_icons=true" />
 </a>
 <a href="https://leetcode-cn.com/u/zaregoto/" >
-  <img align="center" width="306px" src="https://stats.justsong.cn/api/leetcode?username=zaregoto&cn=true" />
+  <img align="center" width="366px" src="https://stats.justsong.cn/api/leetcode?username=zaregoto&cn=true" />
 </a>
 </div>
 
