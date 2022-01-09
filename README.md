@@ -15,6 +15,7 @@
 <div style="
     display: flex;
     align-items: center;"
+    class="d-flex align-center"
 >
 <a >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itiiss&count_private=true&show_icons=true" />
