@@ -12,7 +12,10 @@
 - **Bachelor's degree** in Software Engineering at China University of Petroleum (BeiJing)(Karamay) (2016 - 2020)
 
 ### Statistics 📈
-<div>
+<div style="
+    display: flex;
+    align-items: center;"
+>
 <a >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itiiss&count_private=true&show_icons=true" />
 </a>
