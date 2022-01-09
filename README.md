@@ -13,10 +13,15 @@
 
 ### Statistics 📈
 
+<div style="
+    display: flex;align-items: center;flex: 1 1 0;"
+    class="d-flex align-center"
+>
 <a >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itiiss&count_private=true&show_icons=true" />
 </a>
 <a href="https://leetcode-cn.com/u/zaregoto/" >
   <img align="center" src="https://stats.justsong.cn/api/leetcode?username=zaregoto&cn=true" />
 </a>
+</div>
 
