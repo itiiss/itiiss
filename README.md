@@ -1,16 +1,22 @@
-### Hi there 👋
+## 👋 Hi there , I'm Itiiss
+### About me
 
-<!--
-**itiiss/itiiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥 Frontend Software Develpoer
+- 🤔 Interested in Data Visualization & FullStack
 
-Here are some ideas to get you started:
+### Skills 🛠️
+- **Languages**: JavaScript, TypeScript, Python, SQL
+- **Web Dev**: React, Node.js, Webpack, GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education 🎓
+- **Bachelor's degree** in Software Engineering at China University of Petroleum (BeiJing)(Karamay) (2016 - 2020)
+
+### Statistics 📈
+<div>
+<a >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itiiss&count_private=true&show_icons=true" />
+</a>
+<a href="https://leetcode-cn.com/u/zaregoto/" >
+  <img align="center" src="https://stats.justsong.cn/api/leetcode?username=zaregoto&cn=true" />
+</a>
+</div>
