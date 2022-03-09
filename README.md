@@ -9,7 +9,7 @@
 - **Web Dev**: React, Node.js, Webpack, GraphQL
 
 ### Education 🎓
-- **Bachelor's degree** in Software Engineering at China University of Petroleum (BeiJing)(Karamay) (2016 - 2020)
+- **Bachelor's degree** in Software Engineering at China University of Petroleum (BeiJing) (2016 - 2020)
 
 ### Statistics 📈
 
