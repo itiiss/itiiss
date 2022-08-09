@@ -6,7 +6,7 @@
 
 ### Skills 🛠️
 - **Languages**: JavaScript, TypeScript, Python, SQL
-- **Web Dev**: React, Node.js, Webpack, GraphQL
+- **Web Dev**: React.js, Vue.js, Node.js, Webpack, GraphQL
 
 ### Education 🎓
 - **Bachelor's degree** in Software Engineering at China University of Petroleum (BeiJing) (2016 - 2020)
