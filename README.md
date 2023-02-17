@@ -5,7 +5,7 @@
 - 🤔 Interested in Data Visualization & FullStack
 
 ### Skills 🛠️
-- **Languages**: JavaScript, TypeScript, Dart, Python, SQL
+- **Languages**: JavaScript, TypeScript, Dart, Python
 - **Web Dev**: React.js, Vue.js, Webpack, Flask, GraphQL
 - **Mobile**: Flutter, React Native
 
