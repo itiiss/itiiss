@@ -1,17 +1,18 @@
 ## 👋 Hi there , I'm Itiiss
 ### About me
 
-- 🖥 Frontend Software Develpoer
-- 🤔 Interested in Data Visualization & FullStack
+- 🖥 Fullstack Software Develpoer
+- 🤔 Interested in Distributed system and Blockchain
 
 ### Skills 🛠️
-- **Languages**: JavaScript, TypeScript, Dart, Python
+- **Languages**: JavaScript, Golang, Dart, Python
 - **Web Dev**: React.js, Vue.js, Webpack, Flask, GraphQL
 - **Mobile**: Flutter, React Native
 
 ### Education 🎓
 - **Bachelor's degree** in Software Engineering at China University of Petroleum (BeiJing) (2016 - 2020)
-
+- **Master's degree** in Information System at Nagoya University (2025 - 2027)
+  
 ### Statistics 📈
 
 <div style="
