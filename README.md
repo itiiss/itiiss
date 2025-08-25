@@ -5,8 +5,8 @@
 - 🤔 Interested in Distributed system and Blockchain
 
 ### Skills 🛠️
-- **Languages**: JavaScript, Golang, Dart, Python
-- **Web Dev**: React.js, Vue.js, Webpack, Flask, GraphQL
+- **Languages**: Golang, JavaScript, Python
+- **Web Dev**: React.js, Flask, GraphQL
 - **Mobile**: Flutter, React Native
 
 ### Education 🎓
